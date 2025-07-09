@@ -7,3 +7,5 @@ There are 2 models being used to do the prediction.
 2. The advanced model is a ML model based  off of Convolutional layers.
 
 ![Visual of program of user drawn 0 and both the simple and adanved models correct predictions](https://github.com/AryaVaidya08/MNIST_Visualizer/blob/Main/images/example1.png?raw=true)
+
+Sample models have been provided, but to train your own models check the `models.py` to change the architecture or `train.py` to change the hyperparameters for the script.
