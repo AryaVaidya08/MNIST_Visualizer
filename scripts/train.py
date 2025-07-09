@@ -84,5 +84,4 @@ def trainScript(EPOCHS=5, LR=0.001, MODEL_TYPE="Simple"):
 
   return FILE_NAME, model
 
-
 trainScript(EPOCHS=5, LR=0.001, MODEL_TYPE="Advanced")
